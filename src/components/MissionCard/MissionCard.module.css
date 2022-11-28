@@ -1,0 +1,61 @@
+.missionCard {
+	width: 496px;
+	height: 192px;
+	background: rgba(24, 26, 37, 0.5);
+	mix-blend-mode: hard-light;
+	border: 1px solid #FFFFFF;
+	border-radius: 17px;
+	position: relative;
+}
+
+.missionName {
+	font-family: 'Epilogue';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 23px;
+	line-height: 120%;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	margin: 25px;
+}
+
+.missionDescription, .missionLocation {
+	display: flex;
+	align-items: center;
+	width: 100px;
+	height: 44px;
+	font-family: 'Epilogue';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 120%;
+	color: #FFFFFF;
+}
+
+.missionLocation {
+	position: absolute;
+	width: 150px;
+	left: 90px;
+}
+
+.divideLine {
+	position: absolute;
+	width: 495px;
+	height: 0px;
+	border: 1px solid #FFFFFF;
+	background-color: #FFFFFF;
+	left: -1px;
+}
+
+.infoBox {
+	display: flex;
+	justify-content: space-between;
+	width: 80%;
+	margin-top: 60px;
+	margin-left: 20px;
+	position: relative;
+}
+
+.imageInfo {
+	margin-right: 10px;
+}

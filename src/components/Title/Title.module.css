@@ -1,0 +1,10 @@
+.planetTitle {
+	font-family: 'Epilogue';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 40px;
+	line-height: 150%;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	margin: 25px;
+}

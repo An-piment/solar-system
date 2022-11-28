@@ -1,0 +1,21 @@
+.planetContent {
+	display: flex;
+	justify-content: space-between;
+	width: 90vw;
+	margin-top: 20px;
+}
+
+.solarSystem {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	position: relative;
+}
+
+.line {
+	width: 95vw;
+	height: 0px;
+	border: 1px solid #FFFFFF;
+	position: absolute;
+	top: 63%;
+}
