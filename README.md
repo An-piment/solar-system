@@ -1,6 +1,6 @@
 # Projeto Sistema Solar Trybe
 
-![image](https://user-images.githubusercontent.com/112974999/204168410-0751939e-6968-4a91-b1aa-b2d6e573fda4.png)
+![image](https://user-images.githubusercontent.com/112974999/204169203-15063ec5-59d3-45a6-932c-f580a5927fea.png)
 
 ## PARA INICIAR O PROJETO
 
